@@ -1,0 +1,17 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: blanchedalmond;
+	color: black;
+}
+
+header {
+	background-color: black;
+	color: aliceblue;
+}
+
+.head {
+	text-align: center;
+	text-decoration: double;
+	background-color: black;
+	color: aliceblue;
+}
